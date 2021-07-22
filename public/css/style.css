@@ -1,0 +1,13 @@
+.sampul{
+    width: 100px;
+}
+.prd{
+    height: 300px;
+}
+.table > tbody > tr > *{
+    vertical-align: middle;
+}
+.prd-ttl{
+    color: #000000;
+    text-decoration: none;
+}
